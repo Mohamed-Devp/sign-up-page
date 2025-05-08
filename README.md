@@ -30,8 +30,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [My solution](https://www.frontendmentor.io/solutions/responsive-introduction-and-sign-up-page-VvSNQv3MeU)
+- Live Site URL: [Demo live](https://mohamed-devp.github.io/sign-up-page/)
 
 ## My process
 
